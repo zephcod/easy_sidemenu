@@ -1,4 +1,4 @@
-name: easy_sidemenu_example
+name: easy_sidemenu
 description: An example for easy sidemenu
 
 version: 1.0.0+1
@@ -14,8 +14,6 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  easy_sidemenu:
-    path: ../
 flutter:
   uses-material-design: true
 
